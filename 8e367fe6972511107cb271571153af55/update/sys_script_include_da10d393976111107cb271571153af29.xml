@@ -10,6 +10,7 @@
         <script><![CDATA[var TEST2 = Class.create();
 TEST2.prototype = {
     initialize: function() {
+		//TEST change
     },
 
     type: 'TEST2'

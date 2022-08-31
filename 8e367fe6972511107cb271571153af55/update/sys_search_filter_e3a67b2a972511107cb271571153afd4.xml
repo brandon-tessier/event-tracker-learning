@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="TESTING">afa67b2a972511107cb271571153afc4</ais_search_source>
+        <label>TESTING</label>
+        <name>TESTING</name>
+        <order>100</order>
+        <search_context_config display_value="TEST AI Search Configuration">71a63b2ab7251110d8459ce72ce5cc24</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 17:50:58</sys_created_on>
+        <sys_id>e3a67b2a972511107cb271571153afd4</sys_id>
+        <sys_name>TESTING</sys_name>
+        <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+        <sys_update_name>sys_search_filter_e3a67b2a972511107cb271571153afd4</sys_update_name>
+    </sys_search_filter>
+</record_update>

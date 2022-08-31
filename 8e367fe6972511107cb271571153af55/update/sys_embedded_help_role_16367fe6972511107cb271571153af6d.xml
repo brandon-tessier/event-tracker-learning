@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_188377_test.user" name="x_188377_test.user">1a367fe6972511107cb271571153af6c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 17:48:58</sys_created_on>
+        <sys_id>16367fe6972511107cb271571153af6d</sys_id>
+        <sys_name>1a367fe6972511107cb271571153af6c</sys_name>
+        <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+        <sys_update_name>sys_embedded_help_role_16367fe6972511107cb271571153af6d</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

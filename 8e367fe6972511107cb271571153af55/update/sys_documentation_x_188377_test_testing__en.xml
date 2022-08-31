@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="TESTING" language="en" table="x_188377_test_testing">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>TESTING</label>
+            <language>en</language>
+            <name>x_188377_test_testing</name>
+            <plural>TESTINGs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-29 17:50:26</sys_created_on>
+            <sys_name>TESTING</sys_name>
+            <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+            <sys_update_name>sys_documentation_x_188377_test_testing__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

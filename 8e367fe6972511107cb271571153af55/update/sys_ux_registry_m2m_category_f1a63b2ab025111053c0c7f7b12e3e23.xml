@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="TEST">b9a63b2a092511102cef884b63a07720</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 17:50:53</sys_created_on>
+        <sys_id>f1a63b2ab025111053c0c7f7b12e3e23</sys_id>
+        <sys_name/>
+        <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_f1a63b2ab025111053c0c7f7b12e3e23</sys_update_name>
+    </sys_ux_registry_m2m_category>
+</record_update>

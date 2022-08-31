@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_188377_test_testing</datasource>
+        <name>TESTING</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 17:50:58</sys_created_on>
+        <sys_id>afa67b2a972511107cb271571153afc4</sys_id>
+        <sys_name>TESTING</sys_name>
+        <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+        <sys_update_name>ais_search_source_afa67b2a972511107cb271571153afc4</sys_update_name>
+    </ais_search_source>
+</record_update>

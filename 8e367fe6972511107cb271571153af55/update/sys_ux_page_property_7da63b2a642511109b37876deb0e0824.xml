@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="TEST">b9a63b2a092511102cef884b63a07720</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 17:50:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7da63b2a642511109b37876deb0e0824</sys_id>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+        <sys_update_name>sys_ux_page_property_7da63b2a642511109b37876deb0e0824</sys_update_name>
+        <type>string</type>
+        <unique_name>x_188377_test.b9a63b2a092511102cef884b63a07720.root.globalSearchDataConfigId</unique_name>
+        <value>b1a63b2af8251110bee0ddd646489b24</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=7da63b2a642511109b37876deb0e0824"/>
+</record_update>

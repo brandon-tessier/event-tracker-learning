@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="TEST Config">3da63b2a3a2511104ef3cf6162d4de27</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Record">558adc930f0210107d20409dc4767e84</macroponent>
+        <macroponent_config/>
+        <name>Record Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Record">35a63b2a84251110ea66dc1f26ae1023</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 17:50:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71a63b2a3f251110e3ef8232a40e9822</sys_id>
+        <sys_name>Record Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+        <sys_update_name>sys_ux_screen_71a63b2a3f251110e3ef8232a40e9822</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=71a63b2a3f251110e3ef8232a40e9822"/>
+</record_update>

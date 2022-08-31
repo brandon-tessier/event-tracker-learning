@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_188377_test_testing">x_188377_test_testing</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TEST</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 17:50:26</sys_created_on>
+        <sys_id>eb86f32a972511107cb271571153af6f</sys_id>
+        <sys_name>TEST</sys_name>
+        <sys_package display_value="TEST" source="x_188377_test">8e367fe6972511107cb271571153af55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">8e367fe6972511107cb271571153af55</sys_scope>
+        <sys_update_name>sys_number_eb86f32a972511107cb271571153af6f</sys_update_name>
+    </sys_number>
+</record_update>
